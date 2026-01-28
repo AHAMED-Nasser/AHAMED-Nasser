@@ -25,6 +25,14 @@ Voici les technologies avec lesquelles j'aime travailler :
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
+ ### Les outils que j'utilise
+ <p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/>
+  <img src="https://img.shields.io/badge/Alwaysdata-FF0000?style=for-the-badge&logo=icloud&logoColor=white" alt="Alwaysdata"/>
+ </p>
+
 ---
 
 ## 📊 Mes Statistiques GitHub
