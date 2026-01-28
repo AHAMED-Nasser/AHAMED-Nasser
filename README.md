@@ -7,7 +7,7 @@ Je suis étudiant en BUT Informatique spécialisé dans la création d'applicati
 
 * 🌱 J'apprends les langage web et système.
 * 💬 N'hésitez pas à me contacter pour des offres de stages ou une collaboration.
-* ⚡ Fait sur moi : Je n'est auncun langage favori, j'essaie de touché un peut de tout (même l'assembleur si besoin).
+* ⚡ Fait sur moi : Je n'est auncun langage favori, j'aime toucher à tout et en apprendre d'avantage.
 
 ---
 
